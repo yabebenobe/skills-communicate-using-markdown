@@ -7,3 +7,7 @@
 print("Hello World")
 ```
 
+- [ ] practice
+- [ ] study
+- [ ] work
+
